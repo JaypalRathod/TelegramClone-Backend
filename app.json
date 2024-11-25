@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "b55db5cf-47e0-4e8d-b95e-727a90455157"
+      }
+    },
+    "android": {
+      "package": "com.jaypal_rathod.server"
+    }
+  }
+}
